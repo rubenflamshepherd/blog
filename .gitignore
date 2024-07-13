@@ -1,1 +1,4 @@
 _site/*
+
+# Github pages ignores this
+Gemfile.lock
