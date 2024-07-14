@@ -1,4 +1,5 @@
 _site/*
+.sass-cache/*
 
 # Github pages ignores this
 Gemfile.lock
