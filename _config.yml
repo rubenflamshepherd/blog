@@ -1,5 +1,3 @@
-baseurl: /rubenflamshepherd.github.io/
-
 collections:
   authors:
     output: true
